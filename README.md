@@ -64,6 +64,20 @@ npm start
 - Notifications
 - Add or Remove Users from Group
 - View Other User Profiles
+  
+## Contributing
+
+We welcome contributions to Talk-A-Tive. To contribute:
+
+    Fork the repository
+    Create a new branch (git checkout -b feature/your-feature-name)
+    Commit your changes (git commit -m 'Add some feature')
+    Push to the branch (git push origin feature/your-feature-name)
+    Create a new Pull Request
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more detail
 
 ## Made By
 
